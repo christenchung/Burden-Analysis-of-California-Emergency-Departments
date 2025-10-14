@@ -7,6 +7,6 @@ By utilizing databases relating to healthcare and public health, I am able to me
 ### Burden of California Emergency Departments
 * *Folders:* 
 * *Objective:*
-  * Analyze the factors associated with California's burdened emergency departments with particular aim to promote data-backed decision making in regards to health disparity 
+  * Analyze California's emergency department burden with particular aim to promote data-backed decision making in regards to health disparity and resource allocation
 * 
 The data set used: https://data.chhs.ca.gov/dataset/emergency-department-volume-and-capacity/resource/929362c5-513b-4e89-8a9e-b34834a3004d?view_id=26ff11c1-af4d-4c9a-900c-c7ed3f30cfd4
