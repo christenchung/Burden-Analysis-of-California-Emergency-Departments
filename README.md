@@ -1,16 +1,9 @@
-# sql/tableau projects
+# Burden Analysis of California Emergency Departments/Rooms 2021-2023
 
-By utilizing databases relating to healthcare and public health, I am able to meld my passion for medicine with developing skills in data analysis and visualization. I employ SQL to better understand and connect data, while conveying these relationships through visualization on Tableau to promote data-backed decision making. 
+## Project Backgroud
 
-## Projects
+By law, ERs fortunately treat all patients, regardless of insurance or payment. ERs are crucial in coordinating emergent care to all patients that truly need it. However, this inevitably places strain on ERs due to limited treatment stations and resources. Using ER data from California Health and Human Services, I analyze statewide ER burden with particular aim to promote data driven decision making in regards to resource allocation and health disparity
 
-1. Burden Analysis of California Emergency Departments/Rooms 2021-2023
-
-## Burden Analysis of California Emergency Departments/Rooms 2021-2023
-
-* Folders: 
-* Objective:
-  * Analyze statewide ER burden with particular aim to promote data driven decision making in regards to health disparity and resource allocation
 * Insights and recommendations:
   * **Burden Trends**: Analysis of burden and its change by year, understanding the relationship between burden and hospital ownership, health care resources, and diagnoses
   * **Burden by Disease**: Assessment of diseases and their corresponding burden to health care systems
