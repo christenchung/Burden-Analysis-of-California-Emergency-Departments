@@ -22,11 +22,10 @@ Therefore, there is significant demand for healthcare services and supporting se
 #### Burden by Disease  
 * Chronic factors contribute to highest ER burden, such as hypertension, diabetes, mental health, substance abuse, active COVID-19, homeless, and obesity.
 * Emergent diseases contribute the least burden and include respiratory, sepsis, stroke, and cardiac
-* Given the correlation between ER burden, burden by chronic diseases, and health care shortage, _____
 <img width="492" height="310" alt="Screenshot 2025-10-24 at 4 52 55 PM" src="https://github.com/user-attachments/assets/9ba32148-8f7d-4e43-919e-8748fc3a7ecd" /> 
 
 #### Regional Hotspots  
-* 
+* Los Angeles County ERs experience the most burden, with the most consecutively burdened ERs each year.
 
 
 * Insights and recommendations:
