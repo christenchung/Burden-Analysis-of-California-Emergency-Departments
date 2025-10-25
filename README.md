@@ -12,10 +12,25 @@ Therefore, there is significant demand for healthcare services and supporting se
 ## Insights
 
 #### Burden Trends 
+* There was a yearly average of 9,994,676 visits and 7,202 treatmend beds 
+* In just 2 years, ER burden increased by 17%. While ER visits increased by 22%, ER beds only had a net increase of 7%. In 2023, beds decreased by 1% and ER count decreased by 2%.  
+* Non-profit ERs face the most burden while government ERs face the least.
+* Of the top 25% burdened ERs, half are in areas with health care shortages. This increased in 2023.
+<img width="402" height="788" alt="Screenshot 2025-10-24 at 5 07 27 PM" src="https://github.com/user-attachments/assets/12b77ce0-f29d-44e1-98a9-2e42b7c909f2" />
+<img width="574" height="806" alt="Screenshot 2025-10-24 at 5 07 36 PM" src="https://github.com/user-attachments/assets/52dcd065-46ee-4a18-8110-d1134b66a22d" />
+
+#### Burden by Disease  
+* Chronic factors contribute to highest ER burden, such as hypertension, diabetes, mental health, substance abuse, active COVID-19, homeless, and obesity.
+* Emergent diseases contribute the least burden and include respiratory, sepsis, stroke, and cardiac
+* Given the correlation between ER burden, burden by chronic diseases, and health care shortage, _____
+<img width="492" height="310" alt="Screenshot 2025-10-24 at 4 52 55 PM" src="https://github.com/user-attachments/assets/9ba32148-8f7d-4e43-919e-8748fc3a7ecd" /> 
+
+#### Regional Hotspots  
 * 
 
+
 * Insights and recommendations:
-  * **Burden Trends**: Analysis of burden and its change by year, understanding the relationship between burden and hospital ownership, health care resources, and diagnoses
+  * **Burden Trends**: Analysis of burden and its change by year, understanding the relationship between burden and hospital ownership, health care resources
   * **Burden by Disease**: Assessment of diseases and their corresponding burden to health care systems
   * **Regional Strain**: Evaluation of county burden and yearly change, while flagging regional hotspots
   * **Hospital Comparisons**: Comparing ER burden with focus on hospitals that are repeatedly burdened in subsequent years
