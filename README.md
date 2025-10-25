@@ -7,7 +7,7 @@ Fortunately, ERs in the United States treat all patients regardless of insurance
 ## Executive Summary 
 
 Analysis of 12,000+ records from 2021-2023 demonstrates that California ERs are facing increasing burden (quantified as visits per treatment beds). ER beds and resources are unable to support the increasing number of patient visits. Burden is especially exacerbated in non-profit hospitals and in areas with health care shortages. Top counties facing increasing burden include Los Angeles, San Bernardino, San Diego, Alameda, Santa Clara, San Joaquin, Fresno, Kern, Sacramento, Monterey, Ventura, Sonoma, and Contra Costa. Hypertension, diabetes, mental health, and substance abuse are the leading contributors to ER burden despite not being emergent. Ironically, the lowest contributors of ER burden are emergent such as respiratory, sepsis, stroke, and cardiac diagnoses. 
-Therefore, there is significant demand for healthcare services and supporting services amongst California non-profit ERs within these counties. Addressing aforementioned chronic diseases can ameliorate ER and economic burden.
+Therefore, there is significant demand for healthcare services and supporting services amongst California non-profit ERs within these counties. Addressing aforementioned chronic diseases can ameliorate ER burden.
 
 ## Insights
 
