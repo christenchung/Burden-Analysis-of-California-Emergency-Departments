@@ -12,6 +12,7 @@ Therefore, there is significant demand for healthcare services and supporting se
 ## Insights
 
 #### Burden Trends 
+
 * There was a yearly average of 9,994,676 visits and 7,202 treatmend beds 
 * In just 2 years, ER burden increased by 17%. While ER visits increased by 22%, ER beds only had a net increase of 7%. In 2023, beds decreased by 1% and ER count decreased by 2%.
 * Increased burden was more due to increased visits than decreased beds and ERs
@@ -24,16 +25,18 @@ Therefore, there is significant demand for healthcare services and supporting se
 <img width="574" height="806" alt="Screenshot 2025-10-24 at 5 07 36 PM" src="https://github.com/user-attachments/assets/52dcd065-46ee-4a18-8110-d1134b66a22d" />
 
 #### Burden by Disease  
+
 * Chronic factors contribute to highest ER burden, such as hypertension, diabetes, mental health, substance abuse, active COVID-19, homeless, and obesity.
 * Emergent diseases contribute the least burden and include respiratory, sepsis, stroke, and cardiac
 * Addressing chronic diseases and social determinants of health (homelessness, substance abuse, mental health) can alleviate ER burden 
 <img width="492" height="310" alt="Screenshot 2025-10-24 at 4 52 55 PM" src="https://github.com/user-attachments/assets/9ba32148-8f7d-4e43-919e-8748fc3a7ecd" /> 
 
 #### Regional Hotspots  
+
 * ER burden is mostly concentrated in Southern California. Top 10 counties facing highest ER burden include: Los Angeles, San Bernardino, Riverside, Orange, San Diego, Alameda, Santa Clara, San Joaquin, Fresno, and Kern.
-* Los Angeles County ERs experience the highest burden. Of all statewide ERs, 7 ERs in Los Angeles County have consistently faced the highest burden each year 
-* Top counties facing increasing burden include Los Angeles, San Bernardino, San Diego, Alameda, Santa Clara, San Joaquin, Fresno, Kern, Sacramento, Monterey, Ventura, Sonoma, and Contra Costa
-* 
+* Los Angeles County ERs experience the highest burden, with 7 particular ERs consistently ranking as most burdened statewide year after year.
+* Top burdened counties facing increasing yearly burden include Los Angeles, San Bernardino, San Diego, Alameda, Santa Clara, San Joaquin, Fresno, Kern, Sacramento, Monterey, Ventura, Sonoma, and Contra Costa
+* Targeting 
 
 * Insights and recommendations:
   * **Burden Trends**: Analysis of burden and its change by year, understanding the relationship between burden and hospital ownership, health care resources
