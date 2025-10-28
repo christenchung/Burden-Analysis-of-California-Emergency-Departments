@@ -1,24 +1,22 @@
-# Burden Analysis of California Emergency Departments/Rooms 2021-2023
+# Burden Analysis of California Emergency Departments 2021-2023
 
-## Project Backgroud
+## Project Background
 
-Fortunately, ERs in the United States treat all patients regardless of insurance or payment. ERs are crucial in caring for all patients, including those who are otherwise unable to seek timely care. However, this inevitably places strain on ERs due to limited treatment stations and resources. Using ER data from California Health and Human Services, I analyze statewide ER burden with particular aim to guide decision making of resource allocation and health disparity. 
+Fortunately, emergency departments/rooms in the United States treat all patients regardless of insurance or payment. ERs have been crucial for all patients, including those who are unable to seek or afford timely medical care often due to systemic health disparities. However, this strains ERs due to limited treatment stations and resources. Health care workers begrudgingly find themselves in conditions where they are forced to stretch limited resources thinly amongst their ever-increasing patient load - patients who are emergent and non-emergent. This leads to rapid burn out, further exacerbating available skill and resources. In California ERs, supply (ER resources and beds) and demand (patient visits) have been increasingly disproportionate. Using [ER data from California Health and Human Services](https://data.chhs.ca.gov/dataset/emergency-department-volume-and-capacity/resource/929362c5-513b-4e89-8a9e-b34834a3004d?view_id=26ff11c1-af4d-4c9a-900c-c7ed3f30cfd4), I analyze statewide ER burden with particular aim to guide decision making of resource allocation and health disparity. 
 
 ## Executive Summary 
 
-Analysis of 12,000+ records from 2021-2023 demonstrates that California ERs are facing increasing burden (quantified as visits per treatment beds). ER beds and resources are unable to support the increasing number of patient visits. Burden is especially exacerbated in non-profit hospitals and in areas with health care shortages. Top counties facing increasing burden include Los Angeles, San Bernardino, San Diego, Alameda, Santa Clara, San Joaquin, Fresno, Kern, Sacramento, Monterey, Ventura, Sonoma, and Contra Costa. Hypertension, diabetes, mental health, and substance abuse are the leading contributors to ER burden despite not being emergent. Ironically, the lowest contributors of ER burden are emergent such as respiratory, sepsis, stroke, and cardiac diagnoses. 
-Therefore, there is significant demand for healthcare services and supporting services amongst California non-profit ERs within these counties. Addressing aforementioned chronic diseases can ameliorate ER burden.
+Analysis of 12,000+ records from 2021-2023 demonstrates that California ERs are facing increasing burden (quantified as visits per treatment beds). ER beds and resources are unable to support the increasing number of patient visits. Burden is especially exacerbated in urban, non-profit hospitals and in areas with health care shortages. Top counties facing increasing burden include Los Angeles, San Bernardino, San Diego, Alameda, Santa Clara, San Joaquin, Fresno, Kern, Sacramento, Monterey, Ventura, Sonoma, and Contra Costa. Hypertension, diabetes, mental health, and substance abuse are the leading contributors to ER burden despite not being emergent. Ironically, the lowest contributors of ER burden are emergent such as respiratory, sepsis, stroke, and cardiac diagnoses. Therefore, there is significant demand for healthcare services and supporting services amongst California non-profit ERs within these counties. Addressing aforementioned chronic diseases can ameliorate ER burden.
 
 ## Insights
 
 #### Burden Trends 
 
-* There was a yearly average of 9,994,676 visits and 7,202 treatmend beds 
-* In just 2 years, ER burden increased by 17%. While ER visits increased by 22%, ER beds only had a net increase of 7%. In 2023, beds decreased by 1% and ER count decreased by 2%.
-* Increased burden was more due to increased visits than decreased beds and ERs
-* * The stark increase in visits invites further exploration of what caused this
+* There was a yearly average of about 10 million visits and 7K treatment beds 
+* In just 2 years, ER burden increased by 17%. While ER visits increased by 22%, ER beds only had a net increase of 7%.
+* In 2023, beds decreased by 1% and ER count decreased by 2%. The decrease in beds coupled with increasing visits exacerbated ER burden. 
+* Compared to bed and ER count, ever-increasing visit count influenced burden the most.
 * Non-profit ERs face the most burden while government ERs face the least.
-* Of the top 25% burdened ERs, half are in areas with health care shortages. This increased in 2023.
 * Extending access to health care and increasing resources for ERs may improve ER burden
 * Further analysis of 2023 may reveal why ER burden has been worsening 
 <img width="402" height="788" alt="Screenshot 2025-10-24 at 5 07 27 PM" src="https://github.com/user-attachments/assets/12b77ce0-f29d-44e1-98a9-2e42b7c909f2" />
@@ -33,10 +31,25 @@ Therefore, there is significant demand for healthcare services and supporting se
 
 #### Regional Hotspots  
 
-* ER burden is mostly concentrated in Southern California. Top 10 counties facing highest ER burden include: Los Angeles, San Bernardino, Riverside, Orange, San Diego, Alameda, Santa Clara, San Joaquin, Fresno, and Kern.
-* Los Angeles County ERs experience the highest burden, with 7 particular ERs consistently ranking as most burdened statewide year after year.
+*  Top 10 counties facing highest ER burden include: Los Angeles, San Bernardino, Riverside, Orange, San Diego, Alameda, Santa Clara, San Joaquin, Fresno, and Kern.
+*  ER burden is most pronounced in Southern California.
+* Los Angeles County ERs experience the highest burden and has 7 ERs consistently ranked as most burdened year after year.
 * Top burdened counties facing increasing yearly burden include Los Angeles, San Bernardino, San Diego, Alameda, Santa Clara, San Joaquin, Fresno, Kern, Sacramento, Monterey, Ventura, Sonoma, and Contra Costa
-* Targeting 
+* Half of the top 25% burdened ERs are in areas facing health care disparity. This increased in 2023.
+* Urban ERs face the highest burden compared to rural or frontier ERs. Of the top 25% burdened ERs, 80% are urban. 
+<img width="1340" height="460" alt="Screenshot 2025-10-28 at 12 00 36 PM" src="https://github.com/user-attachments/assets/0c17bffa-3cbe-49a2-b7b1-ec77e1483010" />
+<img width="1327" height="536" alt="Screenshot 2025-10-28 at 12 00 48 PM" src="https://github.com/user-attachments/assets/5d59c953-6cfe-4d2b-89f7-a1a312439f3b" />
+
+#### Hospital Comparison
+
+* Certain ERs rank as highest burdened year after year. This demonstrates unrelentingly high visit to bed ratios that have gone untreated. 
+* Addressing burden in these ERs/in surrounding areas - and extending these measures statewide - could effectively improve California's ER burden. 
+* Los Angeles County ERs are the highest burdened each year, with burden ratios significantly surpassing all others in California. These ERs include: Torrance Memorial, Providence Holy Cross, Monterey Park Hospital, Memorial Hospital of Gardena, MLK Jr. Community Hospital, Lakewood Regional, and Antelope Valley Hospital.
+* The second most persistently burdened ERs are in San Bernardino County: Community Hospital of San Bernardino and Chino Valley Medical Center. 
+<img width="1205" height="650" alt="Screenshot 2025-10-28 at 12 35 19 PM" src="https://github.com/user-attachments/assets/3a0c8e5b-1ff8-43e4-9d36-3aebfeda072a" />
+
+#### Recommendations
+
 
 * Insights and recommendations:
   * **Burden Trends**: Analysis of burden and its change by year, understanding the relationship between burden and hospital ownership, health care resources
@@ -44,4 +57,4 @@ Therefore, there is significant demand for healthcare services and supporting se
   * **Regional Strain**: Evaluation of county burden and yearly change, while flagging regional hotspots
   * **Hospital Comparisons**: Comparing ER burden with focus on hospitals that are repeatedly burdened in subsequent years
 
-The data set used can be found [here.](https://data.chhs.ca.gov/dataset/emergency-department-volume-and-capacity/resource/929362c5-513b-4e89-8a9e-b34834a3004d?view_id=26ff11c1-af4d-4c9a-900c-c7ed3f30cfd4)
+
