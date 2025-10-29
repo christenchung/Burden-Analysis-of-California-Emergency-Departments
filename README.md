@@ -48,8 +48,12 @@ Analysis of 12,000+ records from 2021-2023 demonstrates that California ERs are 
 * The second most persistently burdened ERs are in San Bernardino County: Community Hospital of San Bernardino and Chino Valley Medical Center. 
 <img width="1205" height="650" alt="Screenshot 2025-10-28 at 12 35 19 PM" src="https://github.com/user-attachments/assets/3a0c8e5b-1ff8-43e4-9d36-3aebfeda072a" />
 
-#### Recommendations
+#### Recommendations 
 
+* Promote programs coordinating care of chronic diseases for patients suffering from homelessness, mental health problems, and substance abuse 
+* Conduct further analysis behind causes of increasing ER visits
+* Direct resources and health care services to non-profit ERs in urban areas where demand is high 
+* Streamline ER processes and maximize efficiency 
 
 * Insights and recommendations:
   * **Burden Trends**: Analysis of burden and its change by year, understanding the relationship between burden and hospital ownership, health care resources
