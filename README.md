@@ -55,10 +55,9 @@ Analysis of 12,000+ records from 2021-2023 demonstrates that California ERs are 
 * Direct resources and health care services to non-profit ERs in urban areas where demand is high 
 * Streamline ER processes to maximize efficiency (examples: merging patient records/EMR documents, optimize triage processes, and have case managers coordinate follow up care for chronic diseases at discharge)
 
-* Insights and recommendations:
-  * **Burden Trends**: Analysis of burden and its change by year, understanding the relationship between burden and hospital ownership, health care resources
-  * **Burden by Disease**: Assessment of diseases and their corresponding burden to health care systems
-  * **Regional Strain**: Evaluation of county burden and yearly change, while flagging regional hotspots
-  * **Hospital Comparisons**: Comparing ER burden with focus on hospitals that are repeatedly burdened in subsequent years
-
+#### Data Query and Visualization
+* I used SQL for data cleaning, querying, and understanding. To visualize data, I used Tableau to compliment analysis obtained from SQL querying.
+* I downloaded [this dataset](https://data.chhs.ca.gov/dataset/emergency-department-volume-and-capacity/resource/929362c5-513b-4e89-8a9e-b34834a3004d?view_id=26ff11c1-af4d-4c9a-900c-c7ed3f30cfd4) as a database called "VolumeCapacity".
+* SQL query can be found [here](https://github.com/christenchung/Burden-Analysis-of-California-Emergency-Departments/blob/590b1180013e6c8eb22cb4de5ceddbce0721df72/data%20query.sql). 
+* ER burden dashboard can be found [here](https://public.tableau.com/views/ERBurdenOverall/DASH1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). 
 
