@@ -35,7 +35,7 @@ Analysis of 12,000+ records from 2021-2023 demonstrates that California ERs are 
 *  ER burden is most pronounced in Southern California.
 * Los Angeles County ERs experience the highest burden and has 7 ERs consistently ranked as most burdened year after year.
 * Top burdened counties facing increasing yearly burden include Los Angeles, San Bernardino, San Diego, Alameda, Santa Clara, San Joaquin, Fresno, Kern, Sacramento, Monterey, Ventura, Sonoma, and Contra Costa
-* Half of the top 25% burdened ERs are in areas facing health care disparity. This increased in 2023.
+* Half of the top 25% burdened ERs are in areas facing health care disparity. This increased in 2023. Since this is during the end of the COVID pandemic, the increase in visits especially warrants further investigation
 * Urban ERs face the highest burden compared to rural or frontier ERs. Of the top 25% burdened ERs, 80% are urban. 
 <img width="1340" height="460" alt="Screenshot 2025-10-28 at 12 00 36 PM" src="https://github.com/user-attachments/assets/0c17bffa-3cbe-49a2-b7b1-ec77e1483010" />
 <img width="1327" height="536" alt="Screenshot 2025-10-28 at 12 00 48 PM" src="https://github.com/user-attachments/assets/5d59c953-6cfe-4d2b-89f7-a1a312439f3b" />
@@ -51,9 +51,9 @@ Analysis of 12,000+ records from 2021-2023 demonstrates that California ERs are 
 #### Recommendations 
 
 * Promote programs coordinating care of chronic diseases for patients suffering from homelessness, mental health problems, and substance abuse 
-* Conduct further analysis behind causes of increasing ER visits
+* Conduct further analysis behind causes of increasing ER visits, specifically after 2022
 * Direct resources and health care services to non-profit ERs in urban areas where demand is high 
-* Streamline ER processes and maximize efficiency 
+* Streamline ER processes to maximize efficiency (examples: merging patient records/EMR documents, optimize triage processes, and have case managers coordinate follow up care for chronic diseases at discharge)
 
 * Insights and recommendations:
   * **Burden Trends**: Analysis of burden and its change by year, understanding the relationship between burden and hospital ownership, health care resources
