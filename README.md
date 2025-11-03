@@ -48,16 +48,21 @@ Analysis of 12,000+ records from 2021-2023 demonstrates that California ERs are 
 * The second most persistently burdened ERs are in San Bernardino County: Community Hospital of San Bernardino and Chino Valley Medical Center. 
 <img width="1205" height="650" alt="Screenshot 2025-10-28 at 12 35 19 PM" src="https://github.com/user-attachments/assets/3a0c8e5b-1ff8-43e4-9d36-3aebfeda072a" />
 
-#### Recommendations 
+## Recommendations 
 
 * Promote programs coordinating care of chronic diseases for patients suffering from homelessness, mental health problems, and substance abuse 
 * Conduct further analysis behind causes of increasing ER visits, specifically after 2022
 * Direct resources and health care services to non-profit ERs in urban areas where demand is high 
 * Streamline ER processes to maximize efficiency (examples: merging patient records/EMR documents, optimize triage processes, and have case managers coordinate follow up care for chronic diseases at discharge)
 
-#### Data Query and Visualization
+## Assumptions and Caveats
+
+* *Health service shortages:* The degree and specifics of health care shortages are ambiguous and would benefit from further research.
+* *Diagnoses:* It is unclear if the primary diagnosis was used or if other diagnoses also contributed to multiple visits.
+* *COVID-19 Pandemic*: The 2020 pandemic has had lasting effects on ER burden, especially exacerbating strain in urban areas [Richards & Derlet, 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9464318/). It may be beneficial to relate contributing factors to the impact of the pandemic.
+
+## Data Query and Visualization
 * I used SQL for data cleaning, querying, and understanding. To visualize data, I used Tableau to compliment analysis obtained from SQL querying.
 * I downloaded [this dataset](https://data.chhs.ca.gov/dataset/emergency-department-volume-and-capacity/resource/929362c5-513b-4e89-8a9e-b34834a3004d?view_id=26ff11c1-af4d-4c9a-900c-c7ed3f30cfd4) as a database called "VolumeCapacity".
 * SQL query can be found [here](https://github.com/christenchung/Burden-Analysis-of-California-Emergency-Departments/blob/590b1180013e6c8eb22cb4de5ceddbce0721df72/data%20query.sql). 
 * ER burden dashboard can be found [here](https://public.tableau.com/views/ERBurdenOverall/DASH1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). 
-
