@@ -57,9 +57,9 @@ Analysis of 12,000+ records from 2021-2023 demonstrates that California ERs are 
 
 ## Assumptions and Caveats
 
-* *Health service shortages:* The degree and specifics of health care shortages are ambiguous and would benefit from further research.
-* *Diagnoses:* It is unclear if the primary diagnosis was used or if other diagnoses also contributed to multiple visits.
-* *COVID-19 Pandemic*: The 2020 pandemic has had lasting effects on ER burden, especially exacerbating strain in urban areas [(Richards & Derlet, 2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9464318/). It may be beneficial to relate contributing factors to the impact of the pandemic.
+* **Health service shortages:** The degree and specifics of health care shortages are ambiguous and would benefit from further research.
+* **Diagnoses:** It is unclear if the primary diagnosis was used or if other diagnoses also contributed to multiple visits.
+* **COVID-19 Pandemic**: The 2020 pandemic has had lasting effects on ER burden, especially exacerbating strain in urban areas [(Richards & Derlet, 2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9464318/). It may be beneficial to relate contributing factors to the impact of the pandemic.
 
 ## Data Query and Visualization
 * I used SQL for data cleaning, querying, and understanding. To visualize data, I used Tableau to compliment analysis obtained from SQL querying.
