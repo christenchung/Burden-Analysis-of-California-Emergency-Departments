@@ -6,7 +6,7 @@ Fortunately, ERs provide medical care to patients who otherwise face systemic he
 
 ## Executive Summary 
 
-Analysis of 12,000+ records from 2021-2023 demonstrates that California ERs are facing increasing burden. Burden is especially exacerbated in urban, non-profit hospitals in areas facing health care shortages. Highest burden is concentrated in Southern California, with Los Angeles County ERs facing the most burden year after year. Chronic diseases and social problems contribute the most burden to ERs, rather than emergencies. ER burden can be improved through initiatives addressing chronic diseases, social problems, and resource disparity in urban areas by non-profit ERs. 
+Analysis of 12,000+ records from 2021-2023 demonstrates that California ERs are facing increasing burden. Burden is especially exacerbated in urban, non-profit hospitals in areas facing health care shortages. Highest burden is concentrated in Southern California, with Los Angeles County ERs at the top. Chronic diseases and social problems contribute the most burden, rather than emergencies. ER burden can be improved through initiatives addressing chronic diseases, social problems, and resource disparity in urban areas by non-profit ERs. 
 
 ## Insights
 
