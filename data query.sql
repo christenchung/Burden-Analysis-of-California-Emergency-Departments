@@ -435,3 +435,15 @@ SELECT
   COUNT(*) AS n
 FROM VolumeCapacity
 WHERE "Category" = 'All ED Visits';
+
+-- correlation of burden and ED visits --
+SELECT
+  CORR("Visits_Per_Station", "Tot_ED_NmbVsts")
+FROM VolumeCapacity
+WHERE "Category" = 'All ED Visits';
+
+-- correlation of burden and beds available --
+SELECT
+  CORR("Visits_Per_Station", "EDStations")
+FROM VolumeCapacity
+WHERE "Category" = 'All ED Visits';
