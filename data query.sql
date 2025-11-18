@@ -398,3 +398,40 @@ SELECT
     COUNT(CASE WHEN "urban or rural" = 'Urban' THEN 1 END) AS 'urban from top 25%',
     COUNT(CASE WHEN "urban or rural" = 'Rural' THEN 1 END) AS 'rural from top 25%'
 FROM "cte1";
+
+
+-- postgresql --
+
+--- creating table ---
+CREATE TABLE VolumeCapacity (
+    "number" NUMERIC,
+    "oshpd_id" NUMERIC,
+    "FacilityName2" TEXT,
+    "CountyName" TEXT,
+    "system" TEXT,
+    "year" INTEGER,
+    "LICENSED_BED_SIZE" TEXT,
+    "HospitalOwnership" TEXT,
+    "UrbanRuralDesi" TEXT,
+    "TEACHINGDesignation" TEXT,
+    "Category" TEXT,
+    "Tot_ED_NmbVsts" NUMERIC,
+    "EDStations" NUMERIC,
+    "EDDXCount" NUMERIC,
+    "LATITUDE" NUMERIC,
+    "LONGITUDE" NUMERIC,
+    "PrimaryCareShortageArea" TEXT,
+    "MentalHealthShortageArea" TEXT,
+    "Visits_Per_Station" NUMERIC
+);
+
+--- Import CSV ---
+\copy VolumeCapacity FROM '/workspaces/235003126/ER2/ERBurden.csv' WITH (FORMAT CSV, HEADER, DELIMITER ',');
+
+-- statistical analysis --
+SELECT
+  AVG("Visits_Per_Station") AS mean,
+  STDDEV_SAMP("Visits_Per_Station") AS stddev,
+  COUNT(*) AS n
+FROM VolumeCapacity
+WHERE "Category" = 'All ED Visits';
