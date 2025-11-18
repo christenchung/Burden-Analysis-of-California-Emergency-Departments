@@ -60,6 +60,7 @@ Analysis of 12,000+ records from 2021-2023 demonstrates that California ERs are 
 * **COVID-19 Pandemic**: The 2020 pandemic has had lasting effects on ER burden, especially exacerbating strain in urban areas [(Richards & Derlet, 2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9464318/). It may be beneficial to relate contributing factors to the impact of the pandemic.
 
 ## Data Query and Visualization
-* I used SQL for data cleaning, querying, and understanding. To visualize data, I used Tableau to compliment analysis obtained from SQL querying.
-* SQL query can be found [here](https://github.com/christenchung/Burden-Analysis-of-California-Emergency-Departments/blob/590b1180013e6c8eb22cb4de5ceddbce0721df72/data%20query.sql). 
+* I used SQL (sqlite and postgresql) and R for data cleaning, querying, and understanding. To visualize data, I used Tableau to compliment analysis obtained from queries.
+* SQL query can be found [here](https://github.com/christenchung/Burden-Analysis-of-California-Emergency-Departments/blob/590b1180013e6c8eb22cb4de5ceddbce0721df72/data%20query.sql).
+* R statistical analysis can be found [here](https://github.com/christenchung/Burden-Analysis-of-California-Emergency-Departments/blob/290de03a22c03c313180970a3e53c24b7bd2c6e7/R_analysis.md).
 * ER burden dashboard can be found [here](https://public.tableau.com/views/ERBurdenOverall/DASH1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). 
