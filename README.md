@@ -13,7 +13,7 @@ Analysis of 12,000+ records from 2021-2023 demonstrates that California ERs are 
 #### Burden Trends 
 
 * In just 2 years, ER burden increased by 17%. While ER visits increased by 22%, ER beds only had a net increase of 7%.
-* Therefore, increased visits influenced burden more than decreased treatment beds/ERs.
+* There may be a relatively stronger correlation between burden and ED visits versus burden and bed availability. However, these correlations are very weak and may be insignificant. 
 * Non-profit ERs face the most burden while government ERs face the least.
 * Further research of increasing visit count may point to contributing factors of ER burden  
 <img width="402" height="788" alt="Screenshot 2025-10-24 at 5 07 27 PM" src="https://github.com/user-attachments/assets/12b77ce0-f29d-44e1-98a9-2e42b7c909f2" />
