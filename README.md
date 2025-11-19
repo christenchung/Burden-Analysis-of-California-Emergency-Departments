@@ -14,7 +14,7 @@
 
 ## Project Background
 
-Fortunately, ERs provide medical care to patients who otherwise face systemic health disparities. However, there exists a disproportionate relationship between increasing demand (patient visits) versus supply (medical care). ER burden has been worsening, due to policies that have more to do with bureaucracy than medicine. This leads to burnout, misdistribution of resources, and threatens the well-being of patients and health care workers. Using [ER data from California Health and Human Services](https://data.chhs.ca.gov/dataset/emergency-department-volume-and-capacity/resource/929362c5-513b-4e89-8a9e-b34834a3004d?view_id=26ff11c1-af4d-4c9a-900c-c7ed3f30cfd4), I analyze statewide ER burden to use data to guide decision making.
+Fortunately, ERs provide medical care to patients who otherwise face systemic health disparities. However, there exists a disproportionate relationship between increasing demand (patient visits) versus supply (medical care). ER burden has been worsening, due to policies that have more to do with bureaucracy than medicine. This leads to burnout, misdistribution of resources, and threatens the well-being of patients and health care workers. Using [ER data from California Health and Human Services](https://data.chhs.ca.gov/dataset/emergency-department-volume-and-capacity/resource/929362c5-513b-4e89-8a9e-b34834a3004d?view_id=26ff11c1-af4d-4c9a-900c-c7ed3f30cfd4), I analyze statewide ER burden to promote guided decision making.
 
 ## Executive Summary 
 
