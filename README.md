@@ -1,6 +1,7 @@
 # Burden Analysis of California Emergency Departments 2021-2023
 
 ## Table of Contents 
+
 - [Project Background](#project-background) <br>
 - [Executive Summary](#executive-summary) <br>
 - [Insights](#insights) <br>
