@@ -1,9 +1,16 @@
 # Burden Analysis of California Emergency Departments 2021-2023
 
 ## Table of Contents 
-[Project Background](#project-background) <br>
-[Executive Summary](#executive-summary) <br>
-[Insights](#insights)
+- [Project Background](#project-background) <br>
+- [Executive Summary](#executive-summary) <br>
+- [Insights](#insights) <br>
+  - [Burden Trends](#burden-trends) <br>
+  - [Burden by Disease](#burden-by-disease) <br>
+  - [Regional Hotspots](#regional-hotspots) <br>
+  - [Hospital Comparison](#hospital-comparison) <br>
+- [Recommendations](#recommendations) <br>
+- [Assumptions and Caveats](#assumptions-and-caveats) <br>
+- [Data Query and Visualization](#data-query-and-visualization)
 
 ## Project Background
 
